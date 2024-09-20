@@ -14,12 +14,12 @@ To use this cheat sheet:
    ```bash
    # Click the Fork button at the top-right corner of this page to make your own copy.
    # Or, from your terminal, clone the repo:
-   `git clone https://github.com/Z0ntaro/GitCheat.git`
-   `cd GitCheat`
+   git clone https://github.com/Z0ntaro/GitCheat.git
+   cd GitCheat
    ```
 2. **Make It Yours**:
    # Modify the cheat sheet by making your changes or adding new Git commands.
-   echo "# Your cool new Git commands" >> gitcheatsheet.md
+   `echo "# Your cool new Git commands" >> gitcheatsheet.md`
 3. **Contribute**:
    # Once you're ready to contribute, follow these steps:
 
@@ -54,7 +54,7 @@ To use this cheat sheet:
 
 7. **Create a Pull Request**:
 
-	# Open a pull request here: 
-	# https://github.com/Z0ntaro/GitCheat.git
+	Open a pull request here: 
+	https://github.com/Z0ntaro/GitCheat.git
 
 Thanks for visiting! Happy coding, and may your commits be clean and your merges conflict-free. ✨
