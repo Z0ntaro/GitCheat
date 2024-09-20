@@ -18,12 +18,12 @@ To use this cheat sheet:
    cd GitCheat
    ```
 2. **Make It Yours**:
-   # Modify the cheat sheet by making your changes or adding new Git commands.
+   ### Modify the cheat sheet by making your changes or adding new Git commands.
    `echo "# Your cool new Git commands" >> gitcheatsheet.md`
 3. **Contribute**:
-   # Once you're ready to contribute, follow these steps:
+   ### Once you're ready to contribute, follow these steps:
 
-##🌟 How to Contribute
+## 🌟 How to Contribute
 
 1. **Fork this repo**:
 
@@ -40,7 +40,7 @@ To use this cheat sheet:
 
 4. **Make your changes**:
 
-	# For example, add a new Git command to the cheat sheet
+	### For example, add a new Git command to the cheat sheet
 	`echo "git rebase -i master" >> gitcheatsheet.md`
 
 5. **Stage and commit your changes**:
